@@ -1,6 +1,6 @@
-<h1>Hi, I'm Sampson! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Sampson! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cyber Security Enthusiast</a></h1>
  
- <h2>👨‍💻 Cybersecurity Projects:</h2>
+ <h2>👨‍💻 Cyber Security Projects:</h2>
  
  
  - <b>Cyber Home Lab</b>
